@@ -145,4 +145,11 @@
     <junit-version>4.12</junit-version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub Packages</name>
+      <url>https://maven.pkg.github.com/bencurio/forgejo-api-client-java</url>
+    </repository>
+  </distributionManagement>   
 </project>

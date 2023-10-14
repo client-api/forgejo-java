@@ -28,7 +28,7 @@ Add this dependency to your project's POM:
 <dependency>
     <groupId>com.clientapi</groupId>
     <artifactId>forgejo-client</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <scope>compile</scope>
 </dependency>
 ```
@@ -38,7 +38,7 @@ Add this dependency to your project's POM:
 Add this dependency to your project's build file:
 
 ```groovy
-compile "com.clientapi:forgejo-client:1.0.0"
+compile "com.clientapi:forgejo-client:1.0.1"
 ```
 
 ### Others
@@ -49,7 +49,7 @@ At first generate the JAR by executing:
 
 Then manually install the following JARs:
 
-* target/forgejo-client-1.0.0.jar
+* target/forgejo-client-1.0.1.jar
 * target/lib/*.jar
 
 ## Getting Started

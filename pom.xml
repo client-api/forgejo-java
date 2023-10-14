@@ -149,7 +149,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/bencurio/forgejo-api-client-java</url>
+      <url>https://maven.pkg.github.com/client-api/forgejo-java</url>
     </repository>
   </distributionManagement>   
 </project>

@@ -15,7 +15,7 @@ package com.clientapi.forgejo.invoker;
 
 @javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2023-10-14T17:14:00.188014500+02:00[Europe/Budapest]")
 public class Configuration {
-    public static final String VERSION = "1.0.3";
+    public static final String VERSION = "1.0.0";
 
     private static ApiClient defaultApiClient = new ApiClient();
 

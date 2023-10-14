@@ -40,7 +40,7 @@ Add this dependency to your project's POM:
 <dependency>
   <groupId>com.clientapi</groupId>
   <artifactId>forgejo-client</artifactId>
-  <version>1.0.3</version>
+  <version>1.0.0</version>
   <scope>compile</scope>
 </dependency>
 ```
@@ -56,7 +56,7 @@ Add this dependency to your project's build file:
   }
 
   dependencies {
-     implementation "com.clientapi:forgejo-client:1.0.3"
+     implementation "com.clientapi:forgejo-client:1.0.0"
   }
 ```
 
@@ -70,7 +70,7 @@ mvn clean package
 
 Then manually install the following JARs:
 
-* `target/forgejo-client-1.0.3.jar`
+* `target/forgejo-client-1.0.0.jar`
 * `target/lib/*.jar`
 
 ## Getting Started

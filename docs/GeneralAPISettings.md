@@ -1,0 +1,17 @@
+
+
+# GeneralAPISettings
+
+GeneralAPISettings contains global api settings exposed by it
+
+## Properties
+
+| Name | Type | Description | Notes |
+|------------ | ------------- | ------------- | -------------|
+|**defaultGitTreesPerPage** | **Long** |  |  [optional] |
+|**defaultMaxBlobSize** | **Long** |  |  [optional] |
+|**defaultPagingNum** | **Long** |  |  [optional] |
+|**maxResponseItems** | **Long** |  |  [optional] |
+
+
+
